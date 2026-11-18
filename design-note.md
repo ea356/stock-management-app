@@ -7,8 +7,8 @@
 
 - INVENTORY["在庫管理表"] :アイテム情報と在庫数を管理するテーブル
 	- id              　 "ID"（主キー）
-        - item_code       　　"アイテムコード"
-        - item_name       　　"アイテム名"
+	- item_code       　　"アイテムコード"
+	- item_name       　　"アイテム名"
 	- unit_price         "単価"
 	- stock_quantity     "在庫数"
 
